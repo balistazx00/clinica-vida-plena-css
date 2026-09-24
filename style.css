@@ -50,6 +50,18 @@ p {
     margin-bottom: 15px;
 }
 
+.aviso {
+    background-color: #e0f2f1;
+    padding: 15px;
+    border-left: 5px solid #2a7f8e;
+    margin-bottom: 15px;
+}
+
+#mensagem {
+    padding: 20px;
+    border-radius: 8px;
+}
+
 footer {
     background-color: #2a7f8e;
     color: white;
