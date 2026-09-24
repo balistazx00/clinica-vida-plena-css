@@ -62,6 +62,15 @@ p {
     border-radius: 8px;
 }
 
+h1, h2, h3 {
+    color: #246f7c;
+}
+
+header, footer {
+    background-color: #2a7f8e;
+    color: white;
+}
+
 footer {
     background-color: #2a7f8e;
     color: white;
